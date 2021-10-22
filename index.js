@@ -24,6 +24,5 @@ for(var i = 0; i < inputs.length; i++) {
     degrees.value = (data * 4) + 1;
     return
   }
-
   })
 }
